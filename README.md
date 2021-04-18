@@ -1,7 +1,8 @@
 # SiF-fish-Health
 The clinical significance of blood biochemical parameters as a rapid diagnostic indicator of health status in salmonid aquaculture.
-
-
+##  Author: 
+Dr. Shahadate Rezvy, Research Fellow, University of West of Scotland
+shahadate.rezvy@uws.ac.uk
 ##  Major Python Modules/Libraries: 
 scikit-learn, shap, dash, Plotly, keras, seaborn, matplotlib, pandas
 ##  Installation: 
@@ -56,5 +57,9 @@ From the waterfall plot these three conditions can separate out 60% of the obser
 ### Unsupervised Explorlation: K-means and t-SNE for hybrid semi-supervised model development
 
 ![Cluster](https://user-images.githubusercontent.com/31511385/115149080-58aa7900-a05a-11eb-9807-e3581bd3a8e3.PNG)
-With 3 clusters, we can assign cluster 2 and 3 as healthy with some unhealthy’s in them aand cluster 1 as unhealthy, which would lead to better accuracy in terms of cluster to supervised labelalignment.
+With 3 clusters, we can assign cluster 2 and 3 as healthy with some unhealthy’s in them aand cluster 1 as unhealthy, which would lead to better accuracy in terms of cluster to supervised label alignment.
+### UWS News/Related Link
+https://www.uws.ac.uk/news/leading-research-at-uws-set-to-improve-fish-health-and-boost-aquaculture-sector/
+
+
 
