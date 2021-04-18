@@ -34,7 +34,7 @@ From the dependence plots, it is possible to identify biomarker ranges that are 
 ![Dependence plot](https://user-images.githubusercontent.com/31511385/115146945-b4700480-a050-11eb-9fca-91e3c07213c1.png)
 
 Example Insight:
-Based on the SHAP depenndence plots, fishes, that were Healthy tend to have the following features:
+Based on the SHAP dependence plots, fishes, that were Healthy tend to have the following features:
 CK MB < 10K;
 LDH <1000;
 NA/K > 150.
@@ -47,4 +47,4 @@ From the waterfall plot these three conditions can separate out 60% of the obser
 
 ### Force Plots for individual fish health and explaining models prediction
 ![Force_Plots](https://user-images.githubusercontent.com/31511385/115146921-9b675380-a050-11eb-8859-704b4b95950b.png)
-### Futher Exploratory Analysis : Dashboads and bubble plots
+### Further Exploratory Analysis : Dashboads and bubble plots
