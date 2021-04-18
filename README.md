@@ -51,6 +51,7 @@ From the waterfall plot these three conditions can separate out 60% of the obser
 
 ### Force Plots for individual fish health and explaining models prediction
 ![Force_Plots](https://user-images.githubusercontent.com/31511385/115146921-9b675380-a050-11eb-8859-704b4b95950b.png)
+
 ### Further Exploratory Analysis : Dashboads and bubble plots
 ![Bubble Plots](https://user-images.githubusercontent.com/31511385/115148783-0fa5f500-a059-11eb-8c69-75befb32bd7f.png)
 
@@ -64,5 +65,6 @@ With 3 clusters, we can assign cluster 2 and 3 as healthy with some unhealthy’
 ### UWS News/Related Link
 https://www.uws.ac.uk/news/leading-research-at-uws-set-to-improve-fish-health-and-boost-aquaculture-sector/
 
-
+### Licensing:
+The dataset is confidential for commercialization purposes.
 
